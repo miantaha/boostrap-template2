@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main-img{
+    padding-left: 50px;
+}
+#hr{
+    color: rgb(56, 165, 209);
+}
+.h1{
+    padding-left: 75px;
+}
+.list ul li a{
+    font-weight: 600;
+}
+.btn-1{
+    width: 200px;
+    height: 45px;
+}
+.p1{
+    padding-left: 30px;
+}
+.btns{
+    padding-left: 480px;
+}
+.crd-t{
+    padding-top: 20px;
+}
+.p1{
+    font-weight: 500; 
+    margin-top: 20px;
+
+}
+.hd4{
+    font-size: 20px;
+    position: relative;
+    right: 30px;
+}
+.grey{
+    background-color: rgb(221, 215, 215);
+    padding-bottom: 50px;
+    border: 2px solid  rgb(221, 215, 215);
+    border-radius: 10px;
+} 
+.hd5{
+    color: rgb(79, 76, 76);
+    
+      padding-top: 20px;
+}
+.hd6{
+    margin-top: 100px;
+     font-size: 25px;
+      font-weight: 800;
+    
+
+}
+.grl{
+    height: 350px;
+     width:300px;
+      margin-top: 50px;
+       border-radius: 10px;
+        box-shadow: 10px 10px 20px black; 
+}
+.bt{
+    width: 180px;
+    background-color:#0f82b3;;
+}
+.r1{
+    
+    width: 100%;
+ 
+    
+    margin: 80px 0px 0px 0px;
+ 
+}
+.bg{
+   background-image: url(./images/bg.jpg);
+    padding-bottom: 30px;
+}
+.bg2{
+ 
+    background-image:  url(./images/creative-team-meeting-coffee-shop-business-discussion-portrait-young-people-sitting-around-cafe-laptop-discussing-67173033.jpg);
+}
+.bg2 img:hover{
+    cursor: pointer;
+    background-color: rgba(128,128,128,0.4);
+    border-radius:80px;
+
+}
+
+
+.vid{
+    height: 150px; 
+    width: 150px;
+    position: relative;
+    top: 150px; 
+    left: 230px;
+}
+.bt2{
+    width: 170px;
+    
+}
+
+.cl2{
+  background-color: white;
+  box-shadow: 10px 10px 10px 10px grey;
+    width: 170px;
+    margin-left: 10px;
+}
+.cl2:hover{
+    cursor: pointer;
+    background-color: #0275d8;
+    box-shadow: 10px 10px 10px 10px rgb(22, 22, 22);
+}
+.cl2 i{
+    color: #0275d8;
+}
+.cl2:hover i {
+    color: white;
+}
+.cl2:hover h3{
+    color: white;
+}
+.mt{
+    margin-top: 50px;
+}
+.icn{
+    font-size: 30px;
+    padding-left: 55px; 
+    margin-top: 30px;
+}
